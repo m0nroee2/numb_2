@@ -103,7 +103,7 @@ int main()
 			double y = c / (2 * b);
 			cout << "y=" << y << "x=" << x << endl;
 			break;
-		case (55):
+		/*case (55):
 			system("cls");
 			break;
 		case (56):
@@ -114,7 +114,7 @@ int main()
 		}
 
 		break;
-
+		*/
 		}
 	} while (work);
 	return work;
